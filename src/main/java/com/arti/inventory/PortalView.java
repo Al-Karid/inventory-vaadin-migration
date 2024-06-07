@@ -1,4 +1,4 @@
-package com.arti;
+package com.arti.inventory;
 
 import java.util.ArrayList;
 import java.util.Collection;
